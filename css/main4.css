@@ -1,0 +1,62 @@
+body{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 960px;
+}
+.container{
+    text-align: center;
+}
+/* .nav ul li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+} */
+.nav{
+    height: 50px;
+    background-color: antiquewhite;
+}
+ul {
+    display: flex;
+    list-style: none;
+}
+
+ul li{
+    padding: 0 20px;
+}
+
+.contact{
+    margin-top: -28px;
+    background-color: aqua;
+}
+
+.contact-1{
+    display: flex;
+    width: 70%;
+}
+
+.center-1{
+width: 50%;
+}
+
+.center-3{
+    height: 336px;
+} 
+
+.contact-2{
+    width: 30%;
+    background-color: white;
+}
+
+.contact-2-img{
+    margin-top: 10px;
+    width: 50%;
+
+}
+.contact-4{
+    display: flex;
+}
+
+.footer{
+    background-color: blue;
+}

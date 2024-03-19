@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    height: 800px;
+    width: 960px;
+    margin: auto;
+    border: 1px solid red;
+}
+
+
+
+
+.header{
+    height: 250px;
+    width: 100%;
+    
+}
+
+.menu{
+  
+    height: 50px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+ul{
+    display: flex;
+   
+    
+}
+
+
+
+.menu li{
+    list-style: none;
+    padding: 0 20px;
+    margin-top: 20px;
+}
+
+a{
+    
+    text-decoration: none;
+}
+
+.contact{
+    display: flex;
+    height: 450px;
+}
+
+.contact-2{
+    margin-top: -20px;
+    width: 60%;
+    height: 100%;
+    background-color: aqua;
+
+}
+
+.contact-3{
+    height: 100%;
+    width: 40%;
+    margin-top: -10px;
+}
+
+.img{
+    
+    width: 100%;
+}
+
+
+
